@@ -148,6 +148,11 @@ with st.container():
         
         #spinner to show
         with st.spinner("Wait for it...", show_time=True):
+            try:
+                res = model.invoke(st.session_state.memory)
+
+            except Exception as e:
+                st.error(f"Gemini API Error: {str(e)}")
             res = model.invoke(st.session_state.memory)
             result = parser.invoke(res)
         
