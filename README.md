@@ -7,7 +7,7 @@ The chatbot focuses on making learning easier by providing beginner-friendly ans
 
 ## 🌐 Live Demo
 
-**Try JigyasaAI here:** [Live Application]([https://jigyasaai-q-n-bot-kbut6qdjt6gbszcjdrvzjq.streamlit.app/])
+**Try JigyasaAI here:** [Live Application](https://jigyasaai-q-n-bot-kbut6qdjt6gbszcjdrvzjq.streamlit.app/)
 
 
 ## ✨ Features
